@@ -1,0 +1,10 @@
+username,password,role
+user1,userpass,Admin
+coach1,pass2,Athlete
+player1,pass3,Athlete
+admin12,pass12,Admin
+Athlete1,Athlete1,Athlete
+coach11,coach11,Coach
+Athlete111,pass111,Athlete
+Coach11,pass11,Coach
+Athlete2,pass2,Athlete
